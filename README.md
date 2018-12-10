@@ -17,4 +17,7 @@ vim +PluginInstall +qall
 
 # install the silver searcher (ag) if needed
 apt-get install silversearcher-ag
+
+# instal global node modules
+npm i -g eslint_d prettier --registry=https://registry.npm.taobao.org
 ```
